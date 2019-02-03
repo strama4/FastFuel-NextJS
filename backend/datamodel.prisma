@@ -1,0 +1,11 @@
+type User {
+  id: ID! @unique
+  name: String!
+}
+
+type Item {
+  id: ID! @unique
+  title: String!
+  quantity: Int!
+  measurement: String!
+}

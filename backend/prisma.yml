@@ -1,0 +1,5 @@
+endpoint: https://us1.prisma.sh/strama-fbb3b2/fastfuel-backend/dev
+datamodel: datamodel.prisma
+hooks:
+  post-deploy:
+    - graphql get-schema -p prisma
