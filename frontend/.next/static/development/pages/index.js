@@ -5635,7 +5635,7 @@ var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/run
 
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "./node_modules/react/index.js"));
 
-var _propTypes = _interopRequireDefault(__webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js"));
+var _propTypes = _interopRequireDefault(__webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js?4eaa"));
 
 var _hoistNonReactStatics = _interopRequireDefault(__webpack_require__(/*! hoist-non-react-statics */ "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js"));
 
@@ -6410,7 +6410,7 @@ module.exports = (__webpack_require__(/*! dll-reference dll_831a3634f66cb1dada0c
 
 /***/ }),
 
-/***/ "./node_modules/prop-types/factoryWithTypeCheckers.js":
+/***/ "./node_modules/prop-types/factoryWithTypeCheckers.js?d6c0":
 /*!*********************************************************************************************************!*\
   !*** C:/Users/Luke/Documents/bloc/FastFuel/frontend/node_modules/prop-types/factoryWithTypeCheckers.js ***!
   \*********************************************************************************************************/
@@ -6977,7 +6977,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 
 /***/ }),
 
-/***/ "./node_modules/prop-types/index.js":
+/***/ "./node_modules/prop-types/index.js?4eaa":
 /*!***************************************************************************************!*\
   !*** C:/Users/Luke/Documents/bloc/FastFuel/frontend/node_modules/prop-types/index.js ***!
   \***************************************************************************************/
@@ -7006,7 +7006,7 @@ if (true) {
   // By explicitly using `prop-types` you are opting into new development behavior.
   // http://fb.me/prop-types-in-prod
   var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/prop-types/factoryWithTypeCheckers.js")(isValidElement, throwOnDirectAccess);
+  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "./node_modules/prop-types/factoryWithTypeCheckers.js?d6c0")(isValidElement, throwOnDirectAccess);
 } else {}
 
 
@@ -8887,7 +8887,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "./node_modules/next/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\Luke\\documents\\bloc\\FastFuel\\frontend\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\Luke\\documents\\bloc\\fastfuel\\frontend\\pages\\index.js";
 
 
 

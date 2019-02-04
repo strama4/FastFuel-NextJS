@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "next/router");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "C:\\Users\\Luke\\documents\\bloc\\FastFuel\\frontend\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\Luke\\documents\\bloc\\fastfuel\\frontend\\pages\\index.js";
 
 
 
